@@ -10,7 +10,9 @@ public class Method {
 	System.out.println("Let's start Call by method");
 	
 	System.out.println("Let's start Call by Develop");
-
+	System.out.println("Let's start Call by Develop");
+	
+	
 	return "PASS";
 	
 	}
